@@ -9,3 +9,8 @@ management in analyzing factors that can trigger heart disease. The logistic reg
 predicting the probability of a heart attack based on relevant variables. In this system, the logistic regression model is able to provide effective and
 efficient information to health workers and patients in identifying risk factors associated with heart attacks.
 
+
+
+![Uploading image.png…]()
+
+
