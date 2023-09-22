@@ -11,6 +11,6 @@ efficient information to health workers and patients in identifying risk factors
 
 
 
-![image](https://github.com/tarawithoutbudimann/Heart-Attack-Prediction/assets/113746952/61a3537c-3ac3-47bf-b30f-fa19d281f6f8)
+<p align="center"><img src="https://github.com/tarawithoutbudimann/Heart-Attack-Prediction/assets/113746952/61a3537c-3ac3-47bf-b30f-fa19d281f6f8">
 
 
