@@ -8,8 +8,9 @@ whether someone has a high potential to have a heart attack or not. In this case
 management in analyzing factors that can trigger heart disease. The logistic regression model is proven to be an effective statistical method in
 predicting the probability of a heart attack based on relevant variables. In this system, the logistic regression model is able to provide effective and
 efficient information to health workers and patients in identifying risk factors associated with heart attacks.
-
-
+<br></br>
+<br></br>
+<br></br>
 
 <p align="center"><img src="https://github.com/tarawithoutbudimann/Heart-Attack-Prediction/assets/113746952/61a3537c-3ac3-47bf-b30f-fa19d281f6f8">
 
